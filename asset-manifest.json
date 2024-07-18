@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca000099.css",
-    "main.js": "/static/js/main.b56be1ed.js",
-    "static/js/453.bf1f07a1.chunk.js": "/static/js/453.bf1f07a1.chunk.js",
+    "main.css": "/static/css/main.71c4f603.css",
+    "main.js": "/static/js/main.010ef07c.js",
+    "static/js/453.231e4d96.chunk.js": "/static/js/453.231e4d96.chunk.js",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
@@ -14,21 +14,24 @@
     "static/media/companylogodemo.jpg": "/static/media/companylogodemo.eb2ed561a05256caadfa.jpg",
     "static/media/imgclient1.avif": "/static/media/imgclient1.102bf61419a191491164.avif",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/websitedevelopment.jpg": "/static/media/websitedevelopment.cf912d40d962b44914d7.jpg",
+    "static/media/healthcarewebportal.jpg": "/static/media/healthcarewebportal.f9fd005458e5d2ef0aeb.jpg",
     "static/media/clock blue img.jpg": "/static/media/clock blue img.f0fa32310d39777eeae2.jpg",
+    "static/media/mobileapplication.jpg": "/static/media/mobileapplication.26d843d7c6c1aaf4bf86.jpg",
     "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/ecommercewebportal.jpg": "/static/media/ecommercewebportal.f988d298fd30815ff5ed.jpg",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.ca000099.css.map": "/static/css/main.ca000099.css.map",
-    "main.b56be1ed.js.map": "/static/js/main.b56be1ed.js.map",
-    "453.bf1f07a1.chunk.js.map": "/static/js/453.bf1f07a1.chunk.js.map"
+    "main.71c4f603.css.map": "/static/css/main.71c4f603.css.map",
+    "main.010ef07c.js.map": "/static/js/main.010ef07c.js.map",
+    "453.231e4d96.chunk.js.map": "/static/js/453.231e4d96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca000099.css",
-    "static/js/main.b56be1ed.js"
+    "static/css/main.71c4f603.css",
+    "static/js/main.010ef07c.js"
   ]
 }
